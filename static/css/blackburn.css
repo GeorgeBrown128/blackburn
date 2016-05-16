@@ -75,3 +75,11 @@ i {
 .pagination a {
   color: #265778;
 }
+
+code.has-jax {
+  font: inherit;
+  font-size: 100%;
+  background: inherit;
+  border: inherit;
+  color: #515151;
+}
