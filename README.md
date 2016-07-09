@@ -2,6 +2,18 @@
 
 Blackburn is a clear and responsive theme for [Hugo](//gohugo.io).
 
+## MathJax
+
+This fork integrates [MathJax](https://www.mathjax.org/) functionality. The
+end goal is to integrate it in a controlled way, so maths is rendered where
+you want it, and not where you don't!
+
+At the moment, there are two fairly simple control mechanisms:
+* To enable mathjax on the homepage, set `homepagemathjax = true` in the
+`params` section of your config file.
+*To enable mathjax in each post, set
+`mathjax = true` in the article's front matter.
+
 ## Overview
 
 * Based on Yahoo's [Pure CSS] (http://purecss.io/) (v0.6.0)
