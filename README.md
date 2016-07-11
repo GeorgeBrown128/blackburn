@@ -37,6 +37,7 @@ At the moment, there are two fairly simple control mechanisms:
   * GitHub
   * Bitbucket
   * Stack Overflow
+  * Server Fault
   * Keybase
 * Client-side syntax highlighting by [Highlight.js](//highlightjs.org) (v9.1.0)
 * Web analytics by Google Analytics
@@ -151,6 +152,7 @@ paginate = 10
   github = "yoshiharuyamashita"
   bitbucket = "*"
   stackoverflow = "*"
+  serverfault = "*"
 
   # Other
   keybase = "*"
